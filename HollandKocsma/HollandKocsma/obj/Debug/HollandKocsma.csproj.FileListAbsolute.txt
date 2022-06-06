@@ -1,0 +1,7 @@
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\bin\Debug\HollandKocsma.exe.config
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\bin\Debug\HollandKocsma.exe
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\bin\Debug\HollandKocsma.pdb
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\obj\Debug\HollandKocsma.csproj.AssemblyReference.cache
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\obj\Debug\HollandKocsma.csproj.CoreCompileInputs.cache
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\obj\Debug\HollandKocsma.exe
+C:\Users\Coding Workstation\Desktop\HK\cardgame\HollandKocsma\HollandKocsma\obj\Debug\HollandKocsma.pdb
