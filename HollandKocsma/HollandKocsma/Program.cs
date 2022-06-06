@@ -10,7 +10,7 @@ namespace HollandKocsma
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holland Kocsma !!!");
+            Console.WriteLine("Holland Kocsma !!!!");
             Console.ReadLine();
         }
     }
